@@ -60,6 +60,9 @@ public class dashboardController {
     public ModelAndView onSubmit(@Validated User user, BindingResult bindingResult){
         ModelAndView modelAndView = new ModelAndView("dashboard");
         if (bindingResult.hasErrors()){
+            //getModel() will create a new modelMap so it should beyond the next two lines
+            //when you want to bind the validation results to the model, you should manually
+            //add it if you return is a modelAndView, if return is a string, do not need to
             modelAndView.addAllObjects(bindingResult.getModel());
             modelAndView.addObject("user", createUser());
             modelAndView.addObject("skills", createSkills());

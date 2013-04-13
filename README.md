@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your beanstalk-maven-plugin archetype project!
 
 ## About
@@ -107,3 +108,7 @@ We hope beanstalk-maven-plugin helps your life easier, and find it fun and easy 
 btw, why not [donate to beanstalker](http://beanstalker.ingenieux.com.br/donate.html)?
 
 Thank you.
+=======
+spring-validation
+=================
+>>>>>>> b0b19fe8bde900b7b87457610385992fb129f23a
