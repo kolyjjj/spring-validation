@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="547c6155-e4d2-49be-9710-0e5a080b3264" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/li/koly/controllers/dashboardController.java" afterPath="$PROJECT_DIR$/src/main/java/li/koly/controllers/dashboardController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my-spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +12,7 @@
     <file path="/mySpring-servlet.xml" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1364984953218" ignored="false" />
     <file path="/index.html" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1364985142364" ignored="false" />
     <file path="/Dummy.txt" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1365842874803" ignored="false" />
-    <file path="/dashboardController.java" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1365842971666" ignored="false" />
+    <file path="/dashboardController.java" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1365844079560" ignored="false" />
     <file path="/dashboard.jsp" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1365841560403" ignored="false" />
     <file path="/fragment.java" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1365164762081" ignored="false" />
     <file path="/User.java" changelist="547c6155-e4d2-49be-9710-0e5a080b3264" time="1365071913132" ignored="false" />
@@ -93,7 +91,7 @@
       <file leaf-file-name="dashboardController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/li/koly/controllers/dashboardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="31" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.31976745">
+            <state line="58" column="72" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.20930232">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1638#1646#0" expanded="true" />
@@ -1176,7 +1174,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/li/koly/controllers/dashboardController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="31" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.31976745">
+        <state line="58" column="72" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.20930232">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1638#1646#0" expanded="true" />

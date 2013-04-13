@@ -56,6 +56,7 @@ public class dashboardController {
         return user;
     }
 
+    //the bindingResult must be the first one after the validated object
     @RequestMapping(value = "userSubmit")
     public ModelAndView onSubmit(@Validated User user, BindingResult bindingResult){
         ModelAndView modelAndView = new ModelAndView("dashboard");
